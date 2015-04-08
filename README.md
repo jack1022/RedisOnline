@@ -1,0 +1,2 @@
+# RedisOnline
+Redis Online是基于Redis的对.net的组件ServiceStack进行Redis服务器数据库进行读取和操作的小程序，可以方便的登陆验证服务器信息，以及读取服务器数据库信息，数据库中各种数据类型的查、修、删。基于信息的保密性，所有Redis服务器登陆信息均采用Cookies保存，操作完请自行清空Cookies信息。
